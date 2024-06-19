@@ -69,4 +69,9 @@ To stop the running Docker containers, use the following command:
 docker-compose down
 ```
 
+# POSTMAN COLLECTION API 
+```
+https://elements.getpostman.com/redirect?entityId=36170112-334b3139-0e27-42d1-b48d-10b83bb08ec3&entityType=collection
+```
+
 
